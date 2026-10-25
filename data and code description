@@ -1,0 +1,2 @@
+This repository provides sonar and optical image data, along with processing code, to support multimodal data analysis and algorithm development. 
+To make the data and processing results easier to explore, the code is packaged as an interactive web application with a visual interface for data processing and computation.
